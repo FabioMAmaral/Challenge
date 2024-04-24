@@ -22,7 +22,9 @@ Suporte a múltiplos formatos de arquivo: .txt, .xlsx, .pdf, .docx. Identificaç
 
 2. **Instruções:**
    - Clone o repositório para o seu computador.
-   - Execute o arquivo `dados_sens.py`.
+   - Abra a pasta "Scanner LGPD"
+   - Abra o CMD de dentro da pasta "Scanner LGPD"
+   - `pyhton dados_sens.py`.
    - Selecione a pasta contendo os arquivos a serem classificados.
    - O programa exibirá um gráfico de classificação geral e um gráfico detalhado de tipos de dados pessoais encontrados nos arquivos.
 
