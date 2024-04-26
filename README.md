@@ -15,7 +15,7 @@ Suporte a múltiplos formatos de arquivo: .txt, .xlsx, .pdf, .docx. Identificaç
    - Python 3.x instalado.
 
 2. **Arquivos para realização de teste:**
-   - Instale a pasta .zip contendo 17 arquivos com formatos: .txt, .xlsx, .pdf, .docx.
+   - Instale a pasta Teste documentos.zip contendo 17 arquivos com formatos: .txt, .xlsx, .pdf, .docx.
 
 3. **Instruções:**
    - Clone o repositório para o seu computador.
