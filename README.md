@@ -13,15 +13,22 @@ Suporte a múltiplos formatos de arquivo: .txt, .xlsx, .pdf, .docx. Identificaç
 
 1. **Requisitos:**
    - Python 3.x instalado.
-   - Bibliotecas necessárias (instaláveis via pip):
+
+2. **Arquivos para realização de teste:**
+   - Instale a pasta .zip contendo 17 arquivos com formatos: .txt, .xlsx, .pdf, .docx.
+
+3. **Instruções:**
+   - Clone o repositório para o seu computador.
+   - Bibliotecas necessárias:
      - tkinter
      - pandas
      - docx
      - PyPDF2
      - plotly
-
-2. **Instruções:**
-   - Clone o repositório para o seu computador.
+   - O arquivo requirements.txt para instalar as bibliotecas necessárias utilizando o pip:
+     ```
+      pip install -r requirements.txt
+     ```
    - Abra a pasta "Scanner LGPD"
    - Abra o CMD de dentro da pasta "Scanner LGPD"
    - `pyhton dados_sens.py`.
@@ -33,7 +40,3 @@ Suporte a múltiplos formatos de arquivo: .txt, .xlsx, .pdf, .docx. Identificaç
 - `dados_sens.py`: Código-fonte principal do programa.
 - `patterns.py`: Arquivo contendo padrões de dados pessoais.
 - `black_lotus.png`: Imagem utilizada na interface gráfica.
-
-## Contribuição
-
-Contribuições são bem-vindas! Se você encontrar bugs ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
