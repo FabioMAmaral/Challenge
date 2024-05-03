@@ -19,6 +19,9 @@ Suporte a múltiplos formatos de arquivo: .txt, .xlsx, .pdf, .docx. Identificaç
 
 3. **Instruções:**
    - Clone o repositório para o seu computador.
+     ```
+      git clone https://github.com/FabioMAmaral/Challenge.git
+     ```
    - Bibliotecas necessárias:
      - tkinter
      - pandas
@@ -40,3 +43,9 @@ Suporte a múltiplos formatos de arquivo: .txt, .xlsx, .pdf, .docx. Identificaç
 - `dados_sens.py`: Código-fonte principal do programa.
 - `patterns.py`: Arquivo contendo padrões de dados pessoais.
 - `black_lotus.png`: Imagem utilizada na interface gráfica.
+
+## Troubleshotting
+Caso tenha problemas na instalação das biblotecas
+      ```
+      pip install –upgrade
+      ```
